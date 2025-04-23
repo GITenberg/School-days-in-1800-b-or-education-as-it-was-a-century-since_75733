@@ -1,0 +1,39 @@
+_repo: School-days-in-1800-b-or-education-as-it-was-a-century-since_75733
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2025-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75733'
+language: en
+pgterms:marc905: 20250213094740guernsey
+pgterms:marc906: '1875'
+pgterms:marc907: US
+publication_note: '  $aPhiladelphia :$bThe Union Press, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home circle series
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Schools -- England -- History -- Juvenile fiction'
+- !lcsh 'Schools -- United States -- History -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'School-days in 1800 : $b or, education as it was a century since'
+url: http://www.gutenberg.org/ebooks/75733
